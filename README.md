@@ -4,13 +4,13 @@ QGraphTad is the first model to incorporate core principles of quantum cognition
 
 # System requirement
 QGraphTad is developed under Linux environment with:
--1 python 3.9.12
--2 numpy 1.24.3
--3 pandas 2.1.4
--4 fair-esm 2.0.1
--5 torch 1.12.1
--6 pytorch-lightning 1.6.4
--7 (optional) esmfold
+- 1 python 3.9.12
+- 2 numpy 1.24.3
+- 3 pandas 2.1.4
+- 4 fair-esm 2.0.1
+- 5 torch 1.12.1
+- 6 pytorch-lightning 1.6.4
+- 7 (optional) esmfold
 
 # Software requirement
 To run the full & accurate version of GraphBepi, you need to make sure the following software is in the [mkdssp](./mkdssp) directory:  
