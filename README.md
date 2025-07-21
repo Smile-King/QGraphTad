@@ -28,7 +28,7 @@ python train.py --dataset BCE_633
 ```
 # Run QGraphTad for prediction
 1) Please execute the following command directly if you can provide the PDB file.
-2) If you want to skip the training steps, you can go to [https://github.com/](https://drive.google.com/drive/folders/1qDq-3L1CfKLnBFCD5_d05HYcpW6c-CzW?usp=sharing)download our pre-trained model files and replace the model folder in the current folder to proceed directly to the testing steps.
+2) If you want to skip the training steps, you can go to [Google Drive](https://drive.google.com/drive/folders/1qDq-3L1CfKLnBFCD5_d05HYcpW6c-CzW?usp=sharing)download our pre-trained model files and replace the model folder in the current folder to proceed directly to the testing steps.
 3) If you do not have a PDB file, you can use [AlphaFold2](http://bio-web1.nscc-gz.cn/app/alphaFold2_bio) to predict the protein structure. 
 
 ```
